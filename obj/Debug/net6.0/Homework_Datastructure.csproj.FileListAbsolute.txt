@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\bin\Debug\net6.0\Homework_Datastructure.exe
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\bin\Debug\net6.0\Homework_Datastructure.deps.json
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\bin\Debug\net6.0\Homework_Datastructure.runtimeconfig.json
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\bin\Debug\net6.0\Homework_Datastructure.dll
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\bin\Debug\net6.0\Homework_Datastructure.pdb
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.dll
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\refint\Homework_Datastructure.dll
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.pdb
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\Homework_Datastructure.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2\Homework_Datastructure\obj\Debug\net6.0\ref\Homework_Datastructure.dll
